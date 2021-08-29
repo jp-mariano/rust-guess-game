@@ -10,6 +10,7 @@ This project was made using `cargo new`
 * Cargo
 
 ### Getting Started
+Using your favorite CLI, enter the following:
 1. `git clone https://github.com/jp-mariano/rust-guess-game.git`
 2. `cd rust-guess-game`
 3. `cargo build`
