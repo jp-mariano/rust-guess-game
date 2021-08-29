@@ -1,7 +1,7 @@
 # rust-guess-game
 Guess the random number from 1 to 100.
 
-This project was made using `cargo new`
+This project was made using `cargo new`.
 
 ## Setup
 
